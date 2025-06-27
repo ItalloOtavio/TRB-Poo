@@ -1,0 +1,45 @@
+RELATÓRIO DE PESSOAS CADASTRADAS
+
+Pessoa 1:
+Nome: Lucas Fernandes
+Email: lucas.fernandes@email.com
+Idade: 25
+Pessoa 2:
+Nome: Ana Beatriz Lima
+Email: ana.lima@email.com
+Idade: 22
+Pessoa 3:
+Nome: João Vitor Almeida
+Email: joao.almeida@email.com
+Idade: 25
+Pessoa 4:
+Nome: Mariana Costa
+Email: mariana.costa@email.com
+Idade: 50
+Pessoa 5:
+Nome: Felipe Souza
+Email: felipe.souza@email.com
+Idade: 14
+Pessoa 6:
+Nome: Camila Rocha
+Email: 	camila.rocha@email.com
+Idade: 15
+Pessoa 7:
+Nome: Rafael Martins
+Email: rafael.martins@email.com
+Idade: 30
+Pessoa 8:
+Nome: Juliana Pereira
+Email: juliana.pereira@email.com
+Idade: 33
+Pessoa 9:
+Nome: Itallo Otavio Resende da Silva
+Email: otavio@gmail.com
+Idade: 20
+Pessoa 10:
+Nome: Maria Luiza Medende
+Email: maria@gmail.com
+Idade: 21
+
+Pessoa mais nova: Felipe Souza - Idade: 14
+Pessoa mais velha: Mariana Costa - Idade: 50
