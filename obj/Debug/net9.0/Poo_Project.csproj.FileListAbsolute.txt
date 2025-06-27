@@ -1,0 +1,15 @@
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\bin\Debug\net9.0\Poo_Project.exe
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\bin\Debug\net9.0\Poo_Project.deps.json
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\bin\Debug\net9.0\Poo_Project.runtimeconfig.json
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\bin\Debug\net9.0\Poo_Project.dll
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\bin\Debug\net9.0\Poo_Project.pdb
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\obj\Debug\net9.0\Poo_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\obj\Debug\net9.0\Poo_Project.AssemblyInfoInputs.cache
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\obj\Debug\net9.0\Poo_Project.AssemblyInfo.cs
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\obj\Debug\net9.0\Poo_Project.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\obj\Debug\net9.0\Poo_Project.sourcelink.json
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\obj\Debug\net9.0\Poo_Project.dll
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\obj\Debug\net9.0\refint\Poo_Project.dll
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\obj\Debug\net9.0\Poo_Project.pdb
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\obj\Debug\net9.0\Poo_Project.genruntimeconfig.cache
+C:\Users\MASTER\Documents\PUC MINAS\Poo_Project\obj\Debug\net9.0\ref\Poo_Project.dll
