@@ -49,10 +49,14 @@ class Program
                 Console.Write("Digite a idade: ");
                 string entrada = Console.ReadLine()!;
 
-                bool conversao = int.TryParse(entrada, out idadePessoa);
-                if (conversao == true)
+                try
                 {
+                    idadePessoa = Convert.ToInt32(entrada);
                     idadeValida = validador.ValidarIdade(idadePessoa);
+                }
+                catch
+                {
+                    idadeValida = false;
                 }
 
                 if (idadeValida == false)
