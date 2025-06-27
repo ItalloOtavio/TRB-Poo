@@ -60,4 +60,18 @@ class Validacao
 
         return true;
     }
+
+
+        public bool ValidarIdade(int idadeDigitada)
+        {
+            if (idadeDigitada >= 0)
+            {
+                if (idadeDigitada <= 150)
+                {
+                    return true;
+                }
+            }
+
+            return false;
+        }
 }
